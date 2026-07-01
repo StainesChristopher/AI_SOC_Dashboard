@@ -1,10 +1,6 @@
 # AI_SOC_Dashboard
 AI-powered Security Operations Center Dashboard using Flask and MySQL.
 
-#  AI SOC Dashboard
-
-An AI-powered Security Operations Center (SOC) Dashboard built using Flask, MySQL, Bootstrap, and Chart.js. This project monitors login activities, detects brute-force attacks, generates security alerts, and provides an interactive dashboard for security analysis.
-
 ##  Features
 
 - User Registration & Secure Login
@@ -39,24 +35,18 @@ An AI-powered Security Operations Center (SOC) Dashboard built using Flask, MySQ
 ## Project Structure
 
 AI_SOC_Dashboard/
-│
-├── app.py
-├── requirements.txt
-├── README.md
-│
-├── templates/
-│   ├── dashboard.html
-│   ├── login.html
-│   ├── register.html
-│   ├── logs.html
-│   └── alerts.html
-│
-├── static/
-│   ├── css/
-│   ├── js/
-│   └── images/
-│
-└── security_logs_report.pdf
+     app.py,
+     requirements.txt,
+     README.md//
+  templates/-
+     dashboard.html,
+     login.html,
+     register.html,
+     logs.html,
+     alerts.html//
+  static/-
+   css/-
+     style.css//
 
 
 
